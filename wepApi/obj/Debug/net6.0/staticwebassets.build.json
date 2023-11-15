@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wJFaCCJyIsLU+0SMlTBmHeHky0UbWa/CLSVQa3Niwos=",
+  "Source": "wepApi",
+  "BasePath": "_content/wepApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
